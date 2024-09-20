@@ -50,4 +50,56 @@ The warning may look like this: <br>
 <p><pre>WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.</pre></p>
 <p>This warning goes away if the program is run online through platforms like Google Colab or Jupyter Notebook.</p>
 <br>
+
+<h2>Performance-Metrics</h2>
+  
+<p>This repository displays how one performs the multiple performance metrics classified under both multiple linear and logistic regression on a dataset consisting of both numeric and categorical attributes</p>
+<br>
+<h2>For Linear Regression Metrics</h2>
+<h3>Respective Performance Metrics used: </h3>
+<ul>
+  <li>Mean Squared Error (MSE)</li>
+  <li>Root Mean Squared Error (RMSE)</li>
+  <li>Mean Absolute Error (MAE)</li>
+  <li>R Squared Error</li>
+  <li>Adjusted R Squared Error</li>
+</ul>
+<h3>Libraries Required: </h3>
+<ol>
+  <li>numpy</li>
+  <li>pandas</li>
+</ol>
+<p>Install the libraries if not already installed on the system using: </p>
+<pre>
+pip install numpy pandas
+</pre>
+<br>
+<br>
+<h2>For Logistic Regression Metrics</h2>
+<h3>Respective Performance Metrics used: </h3>
+<ul>
+  <li>Mean Squared Logarithmic Error (MSLE)</li>
+  <li>Mean Absolute Percentage Error (MAPE)</li>
+</ul>
+<h3>Additional Library used: </h3>
+<ul>
+  <li>Streamlit</li>
+</ul>
+<p>Streamlit is an open-source Python framework that allows users to create and share interactive web apps for data science and machine learning</p>
+<p>Provides our code with a clean visualization feature.</p>
+<h4>Install it in your system with the command</h4>
+<pre>
+pip install streamlit
+</pre>
+
+<h4>Finally, open the directory where your file lies using the command:</h4>
+<pre>
+cd path-to-dir/folder-where-your-file-lies
+</pre>
+
+<h4>Run the code <b>through the terminal</b> with the command: </h4>
+<pre>
+streamlit run filename.py
+</pre>
+
 <p>Feel free to add to this repository, Happy Coding !</p>
