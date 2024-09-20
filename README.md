@@ -50,7 +50,8 @@ The warning may look like this: <br>
 <p><pre>WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.</pre></p>
 <p>This warning goes away if the program is run online through platforms like Google Colab or Jupyter Notebook.</p>
 <br>
-
+<hr>
+<br>
 <h2>Performance-Metrics</h2>
   
 <p>This repository displays how one performs the multiple performance metrics classified under both multiple linear and logistic regression on a dataset consisting of both numeric and categorical attributes</p>
@@ -101,5 +102,5 @@ cd path-to-dir/folder-where-your-file-lies
 <pre>
 streamlit run filename.py
 </pre>
-
+<br>
 <p>Feel free to add to this repository, Happy Coding !</p>
