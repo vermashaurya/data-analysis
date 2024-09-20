@@ -1,5 +1,6 @@
 # data-preprocessing
-Data Pre-Processing tools like annotation, metadata extraction, etc. for various data, including image files, audio, and video files. 
+Data Pre-Processing tools like annotation, metadata extraction, etc. for various data, including image files, audio, and video files. <br>
+Data Analysis tools like error calculation classified under linear and logistic regression for a dataset with numeric and categorical attributes.
 <hr><br>
 <h2>Image-annotation</h2>
 
