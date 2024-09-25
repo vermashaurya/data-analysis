@@ -1,8 +1,9 @@
-# data-preprocessing
+# data-analysis
 Data Pre-Processing tools like annotation, metadata extraction, etc. for various data, including image files, audio, and video files. <br>
-Data Analysis tools like error calculation classified under linear and logistic regression for a dataset with numeric and categorical attributes.
+Data Analysis tools like error calculation classified under linear and logistic regression for a dataset with numeric and categorical attributes. <br>
+Data Classification tools like ID3 Decision Trees, Naive Bayes Classification, K Means clustering.
 <hr><br>
-<h2>Image-annotation</h2>
+<h2>Image-preprocessing</h2>
 
 <p>This program aims to recognize objects in any given picture and draw bounding boxes around the object.<br>The objective lies in identifying the objects for further data pre-processing !</p>
 <br>
