@@ -1,4 +1,4 @@
-# data-analysis
+# data-analysis [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/vermashaurya/data-analysis)
 Data Pre-Processing tools like annotation, metadata extraction, etc. for various data, including image files, audio, and video files. <br>
 Data Analysis tools like error calculation classified under linear and logistic regression for a dataset with numeric and categorical attributes. <br>
 Data Classification tools like ID3 Decision Trees, Naive Bayes Classification, K Means clustering.
@@ -12,7 +12,7 @@ Data Classification tools like ID3 Decision Trees, Naive Bayes Classification, K
 
 <p>This program aims to recognize objects in any given picture and draw bounding boxes around the object.<br>The objective lies in identifying the objects for further data pre-processing !</p>
 <hr>
-<h2>For Windows</h2>
+<h2>For Windows </h2> 
 <h3>Step 1:</h3>
 <h5>Install the respective dependencies: </h5>
 <ul>
