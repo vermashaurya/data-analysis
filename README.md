@@ -6,6 +6,7 @@ Data Classification tools like ID3 Decision Trees, Naive Bayes Classification, K
 
 ![diagram](https://github.com/user-attachments/assets/210fd557-5ab1-4144-a04b-77860e4a43a2)
 
+- for a detailed analysis of the repository visit https://deepwiki.com/vermashaurya/data-analysis/1-overview
 <hr>
 <h2>Image-preprocessing</h2>
 
