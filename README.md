@@ -2,11 +2,15 @@
 Data Pre-Processing tools like annotation, metadata extraction, etc. for various data, including image files, audio, and video files. <br>
 Data Analysis tools like error calculation classified under linear and logistic regression for a dataset with numeric and categorical attributes. <br>
 Data Classification tools like ID3 Decision Trees, Naive Bayes Classification, K Means clustering.
-<hr><br>
+
+
+![diagram](https://github.com/user-attachments/assets/210fd557-5ab1-4144-a04b-77860e4a43a2)
+
+<hr>
 <h2>Image-preprocessing</h2>
 
 <p>This program aims to recognize objects in any given picture and draw bounding boxes around the object.<br>The objective lies in identifying the objects for further data pre-processing !</p>
-<br>
+<hr>
 <h2>For Windows</h2>
 <h3>Step 1:</h3>
 <h5>Install the respective dependencies: </h5>
